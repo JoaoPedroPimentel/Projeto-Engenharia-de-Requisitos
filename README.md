@@ -50,7 +50,7 @@ A arquitetura é organizada em camadas:
 
 ## Documentação
 
-O documento do projeto reúne introdução, requisitos, arquitetura, protótipo de telas, padrões de design e os diagramas de casos de uso, classes, sequência e entidade-relacionamento. Está na pasta [`docs/`](docs/):
+O documento do projeto reúne introdução, requisitos, arquitetura, protótipo de telas, padrões de design e os diagramas de casos de uso, classes, sequência e entidade-relacionamento. Está na pasta [`docs/`]([(https://github.com/JoaoPedroPimentel/Projeto-Engenharia-de-Requisitos/tree/main/Projeto])):
 
 - [`docs/Projeto_Engenharia-de-Requisitos.docx`](docs/Projeto_Engenharia-de-Requisitos.docx)
 
